@@ -16,6 +16,7 @@
 #include "ImageDataArrays.h"
 //OpenCV all headers
 #include "opencv2/opencv.hpp"
+#include "opencv2/imgcodecs/legacy/constants_c.h"
 
 //CUDA headers
 #include <cuda_runtime.h>
